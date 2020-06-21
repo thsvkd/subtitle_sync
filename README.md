@@ -1,1 +1,1 @@
-# thsvkd-subtitle_sync
+# subtitle_sync
